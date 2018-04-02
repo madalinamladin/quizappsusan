@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="capital_cities_quiz">Capital Cities Quiz</string>
+    <string name="are_you_over_12">Are You Over 12</string>
+    <string name="QUESTIONS">QUESTIONS</string>
+    <string name="Q1_is_the_capital_city_of_england_london">Q1 Is The Capital City Of England London</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Q2_is_the_capital_city_of_scotland_edinburgh">Q2 Is The Capital City Of Scotland Edinburgh</string>
+    <string name="Q3_is_the_capital_city_of_france_paris">Q3 Is The Capital City Of France Paris</string>
+    <string name="Q4_is_the_capital_city_of_germany_berlin">Q4 Is The Capital City Of Germany Berlin</string>
+    <string name="Q5_is_the_capital_city_of_greece_athens">Q5 Is The Capital City Of Greece Athens</string>
+    <string name="Q6_is_the_capital_city_of_portugal_Lisbon">Q6 Is The Capital City Of Portugal Lisbon</string>
+    <string name="Q7_What_Is_The_Capital_City_Of_Australia">Q7 What Is The Capital City Of Australia</string>
+    <string name="Q8_What_Is_The_Capital_City_Of_Austria">Q8 What Is The Capital City Of Austria</string>
+    <string name="vienna">Vienna</string>
+    <string name="brussels">Brussels</string>
+    <string name="submit_score">Submit Score</string>
+    <string name="reset_score">Reset Score</string>
+    <string name="answer">Answer</string>
+</resources>
